@@ -26,10 +26,10 @@ frontend the percentage, path and the file we input.And then we will be assignin
 The path which we are giving as an input is of the files to be checked so the call function 
 is called which takes the names of the files using glob which retrieves the files so as to print them in the results page.
 The num variable calls the datas function which gives the percentage of plagiarism through the levensteins algorithm.
-All the plagiarised files are printed in a list using a for loop it opens the files one by one in read mode removes the newlines and spaces and checks
-if the length of the file to be checked and the master file,it takes the length of the big string.
-The percentage of plagiarism is calculated by subtarcting the similarities which is ginven by the variable 'n'.
-So if the value of n is greater than the minimum percentage of plagiarism it prints the value plagiarised and gets added to the list.And similarly it checks for the next files
+All the plagiarised files are printed in a list using a for loop it opens the files one by one in read mode removes the newlines and spaces and checks the length of the file to be checked and the master file,it takes the length of the big string.
+The percentage of plagiarism is calculated by subtarcting the differences which is given by the variable 'n'.
+So if the value of n is greater than the minimum percentage of plagiarism it prints the value plagiarised and gets added to the list.And similarly it 
+checks for the next files
 and calculated the percent plagiarised and appends it into the list.Finally it prints the list of the files and corressponding plagiarism percentages list.
      
      
