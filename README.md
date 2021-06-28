@@ -13,7 +13,7 @@
      The plagiarism checker  has been implemented by using languages such as 🔺Python,📍html.
      
      
-   ## ***Overview***
+   ## ***Procedure***🧾
  First we have created a class and defined
 the objects which are the inputs given 
 from the textarea.Then wwe have defined a
@@ -40,7 +40,7 @@ and calculated the percent plagiarised and appends it into the list.Finally it p
      
      
      
-  ## ***levenshtein algorithm***   
+  ## ***levenshtein algorithm*** 📈
      The Levenshtein algorithm (also called Edit-Distance) calculates the least number of edit operations that are necessary to modify one string to obtain another string.
      The pictorial representation of the example matrix used in Levenshtein algorithm is
    <p align="center">
