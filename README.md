@@ -47,6 +47,21 @@ and calculated the percent plagiarised and appends it into the list.Finally it p
   <img width ="333" height="250"
   src="https://user-images.githubusercontent.com/81485191/123628952-4b1b2780-d831-11eb-8d0d-d5fc7df635ee.jpeg">
   </p>
+  
+  ## ***input***
+  <p align="center">
+ <img width ="373" height="300"
+   src="https://user-images.githubusercontent.com/85957181/123632848-0b0a7380-d836-11eb-910f-36d7439cf16e.jpg">
+    </p>
+    
+   ## ***Output***
+   <p align="center">
+ <img width ="373" height="300"
+   src="https://user-images.githubusercontent.com/85957181/123634204-c8499b00-d837-11eb-9761-ecbb7e064e13.jpg">
+   </p>
+
+
+  
 
 
 
